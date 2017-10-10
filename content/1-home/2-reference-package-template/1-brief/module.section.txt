@@ -1,0 +1,41 @@
+Title: Brief
+
+----
+
+Iconillus: file
+
+----
+
+Textcontent: 
+
+----
+
+Text: The purpose of this project was to expand upon and improve the existing reference package template that was already in place. Creating this new template allows for better diversity in design, as well as improves upon exisiting UX conventions.
+
+----
+
+Textsuite: 
+
+----
+
+Addtextlink: 
+
+----
+
+Textlink: 
+
+----
+
+Addgallery: 
+
+----
+
+Gallerie: 
+
+----
+
+Addvideo: 
+
+----
+
+Gallery-video: 

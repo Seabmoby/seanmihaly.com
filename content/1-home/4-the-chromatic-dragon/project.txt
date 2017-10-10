@@ -1,0 +1,25 @@
+Title: Brand | The Chromatic Dragon
+
+----
+
+Thumbnail: tcd.jpg
+
+----
+
+Text: A premium gamerpub for the geeks and non-geeks of Savannah, GA
+
+----
+
+Leadtheme: dark
+
+----
+
+Alignpresentation: p_c_right
+
+----
+
+Contactsection: 0
+
+----
+
+Aligncontact: p_c_right

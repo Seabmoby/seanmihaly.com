@@ -1,0 +1,41 @@
+Title: Download
+
+----
+
+Iconillus: download
+
+----
+
+Textcontent: 
+
+----
+
+Text: <a href="https://seanmihaly.com/content/1-home/1-resume/sean-mihaly-resume-9-18-2017.pdf" target="_blank">Get this as a PDF</a>
+
+----
+
+Textsuite: 
+
+----
+
+Addtextlink: 
+
+----
+
+Textlink: 
+
+----
+
+Addgallery: 
+
+----
+
+Gallerie: 
+
+----
+
+Addvideo: 
+
+----
+
+Gallery-video: 

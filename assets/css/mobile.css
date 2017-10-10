@@ -1,0 +1,8 @@
+@media all and (max-width:767px){
+  .article-presentation.p_c_right>div{text-align:left}
+  .wrap{width:85%}.article-text{margin-top:1em}
+  .presentation-contact.p_c_right{text-align:left}
+  .presentation-contact a{display:block}
+  footer{text-align:center}
+  .textsuite{padding:1em}
+}

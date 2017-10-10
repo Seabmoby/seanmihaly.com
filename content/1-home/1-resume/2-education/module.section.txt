@@ -1,0 +1,47 @@
+Title: Education
+
+----
+
+Iconillus: graduation-cap
+
+----
+
+Textcontent: 
+
+----
+
+Text: 
+
+## Bachelor of Fine Arts
+**Savannah College of Art and Design**
+*Class of 2014*
+
+Interactive Design and Game Development major, concentrating in interactive and service design.
+
+----
+
+Textsuite: 
+
+----
+
+Addtextlink: 
+
+----
+
+Textlink: 
+
+----
+
+Addgallery: 
+
+----
+
+Gallerie: 
+
+----
+
+Addvideo: 
+
+----
+
+Gallery-video: 

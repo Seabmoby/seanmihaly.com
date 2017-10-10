@@ -1,0 +1,41 @@
+Title: External Links
+
+----
+
+Iconillus: link
+
+----
+
+Textcontent: 
+
+----
+
+Text: <a target="_blank" href="http://www.jacobandgwenlawrence.org/">The Jacob and Gwen Knight Lawrence Foundation Website</a>
+
+----
+
+Textsuite: 
+
+----
+
+Addtextlink: 
+
+----
+
+Textlink: 
+
+----
+
+Addgallery: 
+
+----
+
+Gallerie: 
+
+----
+
+Addvideo: 
+
+----
+
+Gallery-video: 

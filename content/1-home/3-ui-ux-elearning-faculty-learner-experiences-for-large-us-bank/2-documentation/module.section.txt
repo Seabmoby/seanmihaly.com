@@ -1,0 +1,44 @@
+Title: Documentation
+
+----
+
+Iconillus: book
+
+----
+
+Textcontent: 
+
+----
+
+Text: 
+
+(file: leadership-edge-master-experience-ipad.pdf text: Direct link)
+<embed src="https://seanmihaly.com/content/1-home/3-ui-ux-elearning-faculty-learner-experiences-for-large-us-bank/2-documentation/leadership-edge-master-experience-ipad.pdf" width="100%" max-width="560" height="800px"/>
+
+----
+
+Textsuite: 
+
+----
+
+Addtextlink: 
+
+----
+
+Textlink: 
+
+----
+
+Addgallery: 
+
+----
+
+Gallerie: 
+
+----
+
+Addvideo: 
+
+----
+
+Gallery-video: 

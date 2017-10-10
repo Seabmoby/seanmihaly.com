@@ -1,0 +1,47 @@
+Title: Accolades
+
+----
+
+Iconillus: trophy
+
+----
+
+Textcontent: 
+
+----
+
+Text: 
+
+## Best Installation Art
+**Entelechy Awards - Wondrous**
+*2014*
+
+Using the Xbox Kinect and Processing, led a team of 10+ to design, build, and program an interactive installation that engaged both active and passive users in an unique environment. The installation went on to be displayed in the Jepson Center for the Arts and at the Pulse Art + Technology festival.
+
+----
+
+Textsuite: 
+
+----
+
+Addtextlink: 
+
+----
+
+Textlink: 
+
+----
+
+Addgallery: 
+
+----
+
+Gallerie: 
+
+----
+
+Addvideo: 
+
+----
+
+Gallery-video: 

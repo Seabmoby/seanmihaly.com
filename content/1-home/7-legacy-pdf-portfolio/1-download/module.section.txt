@@ -1,0 +1,44 @@
+Title: Download
+
+----
+
+Iconillus: download
+
+----
+
+Textcontent: 
+
+----
+
+Text: 
+
+Please note that this PDF is only for those who require a non-html portolio submission. Otherwise, this site serves as the most up-to-date version of this otherwise static portfolio.
+<a href="https://seanmihaly.com/content/1-home/6-legacy-pdf-portfolio/1-download/Sean%20Mihaly%20-%20Portfolio%202017.pdf" target="_blank">Get this as a PDF</a>
+
+----
+
+Textsuite: 
+
+----
+
+Addtextlink: 
+
+----
+
+Textlink: 
+
+----
+
+Addgallery: 
+
+----
+
+Gallerie: 
+
+----
+
+Addvideo: 
+
+----
+
+Gallery-video: 

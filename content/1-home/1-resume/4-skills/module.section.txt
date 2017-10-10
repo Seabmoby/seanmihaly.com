@@ -1,0 +1,80 @@
+Title: Skills
+
+----
+
+Iconillus: bicycle
+
+----
+
+Textcontent: 
+
+----
+
+Text: 
+
+**High-level proficiency in these software tools:**
+
+* Adobe Illustrator
+* Adobe InDesign
+* Adobe Lightroom
+* Adobe Photoshop
+* Adobe XD
+* Atlassian JIRA
+* HTML/CSS
+* Keyshot
+* Microsoft Office/Google Docs
+* Rhinoceros
+* Sony Vegas
+* Trello
+</ul>
+**Proficiency in these software tools:**
+
+* Adobe Premiere
+* Arduino (C/C++)
+* Facebook Business Manager
+* Git/SourceTree
+* Google Analytics
+* Java
+* Jetbrains Webstorm
+* Simplify3D
+* Wordpress
+* Youtube Creator Studio
+
+</ul>
+**High-level proficiency in these soft skills:**
+
+* Analytical thinking
+* Leadership
+* Customer relationship management
+* Communication
+* Process management and creation
+* Problem solving and troubleshooting
+* Task management/delegation
+
+----
+
+Textsuite: 
+
+----
+
+Addtextlink: 
+
+----
+
+Textlink: 
+
+----
+
+Addgallery: 
+
+----
+
+Gallerie: 
+
+----
+
+Addvideo: 
+
+----
+
+Gallery-video: 

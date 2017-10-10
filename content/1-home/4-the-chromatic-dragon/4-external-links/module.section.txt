@@ -1,0 +1,47 @@
+Title: External Links
+
+----
+
+Iconillus: link
+
+----
+
+Textcontent: 
+
+----
+
+Text: 
+
+<a target="_blank" href="https://www.kickstarter.com/projects/theguildhall/the-chromatic-dragon-your-neighborhood-gamer-pub">Kickstarter</a>
+
+<a target="_blank" href="https://www.facebook.com/gamerpubsav/">Facebook</a>
+
+<a target="_blank" href="http://chromaticdragon.com/">Website</a>
+
+----
+
+Textsuite: 
+
+----
+
+Addtextlink: 
+
+----
+
+Textlink: 
+
+----
+
+Addgallery: 
+
+----
+
+Gallerie: 
+
+----
+
+Addvideo: 
+
+----
+
+Gallery-video: 

@@ -1,0 +1,28 @@
+title: Home
+
+icon: home
+
+options:   
+  status: true
+
+pages: project
+
+files: true
+
+fields:
+  title:
+    label: Title
+    type:  markdown
+    
+    
+  show_projects:
+    label: Show projects
+    type:  checkbox
+    text: show all projects on Home page
+    
+  text:
+    label: Lead Section
+    type:  markdown
+    
+ 
+

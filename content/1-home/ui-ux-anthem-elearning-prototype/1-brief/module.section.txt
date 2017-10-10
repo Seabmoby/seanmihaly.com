@@ -1,0 +1,41 @@
+Title: Brief
+
+----
+
+Iconillus: file
+
+----
+
+Textcontent: 
+
+----
+
+Text: Seeking an eLearning solution, Anthm turned to OnPoint to deliver a polished experience while sticking to company branding. The solution must work for both mobile and web.
+
+----
+
+Textsuite: 
+
+----
+
+Addtextlink: 
+
+----
+
+Textlink: 
+
+----
+
+Addgallery: 
+
+----
+
+Gallerie: 
+
+----
+
+Addvideo: 
+
+----
+
+Gallery-video: 

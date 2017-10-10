@@ -1,0 +1,25 @@
+Title: UI/UX | Reference Package Template
+
+----
+
+Thumbnail: preview.png
+
+----
+
+Text: Design a new base template from scratch to allow for better diversity and creativity in OnPoint's user interfaces while improving on UX
+
+----
+
+Leadtheme: dark
+
+----
+
+Alignpresentation: p_c_right
+
+----
+
+Contactsection: 0
+
+----
+
+Aligncontact: p_c_right

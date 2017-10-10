@@ -1,0 +1,25 @@
+Title: Legacy PDF Portfolio
+
+----
+
+Thumbnail: 
+
+----
+
+Text: 
+
+----
+
+Leadtheme: dark
+
+----
+
+Alignpresentation: p-c-right
+
+----
+
+Contactsection: 
+
+----
+
+Aligncontact: p-c-right

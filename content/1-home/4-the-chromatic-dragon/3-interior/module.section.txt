@@ -1,0 +1,56 @@
+Title: Interior
+
+----
+
+Iconillus: map
+
+----
+
+Textcontent: 
+
+----
+
+Text: 
+
+Sean helped layout and plan the interior of the pub from the very beginning. Major contributions included plans to remove the manager's office and replace it with a bar, designing the soffit above the bar, choosing artwork, choosing and laying out lighting fixtures, and designing the entertainment systems.
+
+## Before
+<div><iframe width="100%"	
+height="600px"	
+allowfullscreen	
+frameborder="0"	src="//storage.googleapis.com/vrview/index.html?image=http://i.imgur.com/WWxGpOH.jpg&
+is_stereo=true">
+</iframe>
+</div>
+</br>
+
+## After
+<iframe src="https://www.google.com/maps/embed?pb=!1m0!4v1498166459642!6m8!1m7!1sF%3A-lmyz9HzG8Dc%2FV8pnfN0zPbI%2FAAAAAAAAz_o%2FmHxkPOlCkK0saiS65YwNoG1arObPLF1OwCJkC!2m2!1d32.0710335!2d-81.10051729999999!3f55.28032925492342!4f0!5f0.7820865974627469" width="100%" max-width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+----
+
+Textsuite: 
+
+----
+
+Addtextlink: 
+
+----
+
+Textlink: 
+
+----
+
+Addgallery: 
+
+----
+
+Gallerie: 
+
+----
+
+Addvideo: 
+
+----
+
+Gallery-video: 

@@ -1,0 +1,52 @@
+Title: Image Gallery
+
+----
+
+Iconillus: 
+
+----
+
+Textcontent: 
+
+----
+
+Text: 
+
+<a href="https://seanmihaly.com/content/1-home/ui-ux-anthem-elearning-prototype/image-gallery/2017-09-27-14_43_14.png" data-lightbox="mockups"><img src="https://seanmihaly.com/content/1-home/ui-ux-anthem-elearning-prototype/image-gallery/2017-09-27-14_43_14.png"></a>
+<div>
+<a href="http://seanmihaly.com/content/1-home/2-reference-package-template/2-images/mockup2.png" data-lightbox="mockups"></a>
+<a href="http://seanmihaly.com/content/1-home/2-reference-package-template/2-images/mockup3.png" data-lightbox="mockups"></a>
+<a href="http://seanmihaly.com/content/1-home/2-reference-package-template/2-images/mockup4.png" data-lightbox="mockups"></a>
+<a href="http://seanmihaly.com/content/1-home/2-reference-package-template/2-images/mockup5.png" data-lightbox="mockups"></a>
+<a href="http://seanmihaly.com/content/1-home/2-reference-package-template/2-images/mockup6.png" data-lightbox="mockups"></a>
+<a href="http://seanmihaly.com/content/1-home/2-reference-package-template/2-images/mockup7.png" data-lightbox="mockups"></a>
+<a href="http://seanmihaly.com/content/1-home/2-reference-package-template/2-images/mockup8.png" data-lightbox="mockups"></a>
+</div>
+
+----
+
+Textsuite: 
+
+----
+
+Addtextlink: 
+
+----
+
+Textlink: 
+
+----
+
+Addgallery: 
+
+----
+
+Gallerie: 
+
+----
+
+Addvideo: 
+
+----
+
+Gallery-video: 

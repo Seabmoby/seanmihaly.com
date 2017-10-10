@@ -1,0 +1,45 @@
+Title: Brief
+
+----
+
+Iconillus: file
+
+----
+
+Textcontent: 
+
+----
+
+Text: 
+
+June, 1st 2016 - Site goes live
+
+The Jacob and Gwen Knight Lawrence Foundation was looking for a major overhaul to their dated website for the centennial celebration of Jacob Lawrence's life. Their entire website needed to be rebuilt from the ground up, including switching from an old Window Server-based webhost, migrating their extensive gallery of works, and creating an overall design that meets contemporary standards.
+
+----
+
+Textsuite: 
+
+----
+
+Addtextlink: 
+
+----
+
+Textlink: 
+
+----
+
+Addgallery: 
+
+----
+
+Gallerie: 
+
+----
+
+Addvideo: 
+
+----
+
+Gallery-video: 

@@ -1,0 +1,46 @@
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="overlay">
+        <h1>Click the examples to view them</h1>
+        <div class="examples">
+            <div class="example"><img data-config-nr="0" src="img/config0.png"></div>
+            <div class="example"><img data-config-nr="1" src="img/config1.png"></div>
+            <div class="example"><img data-config-nr="2" src="img/config2.png"></div>
+            <div class="example"><img data-config-nr="3" src="img/config3.png"></div>
+        </div>
+        <h1>Docs at <a href="https://github.com/tipsy/bubbly-bg">github.com/tipsy/bubbly-bg</a></h1>
+    </div>
+
+    <script src="bubbly-bg.js"></script>
+    <script>
+        bubbly();
+        let configs = [
+            {},
+            {
+                colorStart: "#111",
+                colorStop: "#422",
+                bubbleFunc: () => `hsla(0, 100%, 50%, ${Math.random() * 0.25})`
+            },
+            {
+                colorStart: "#4c004c",
+                colorStop: "#1a001a",
+                bubbleFunc: () => `hsla(${Math.random() * 360}, 100%, 50%, ${Math.random() * 0.25})`
+            },
+            {
+                colorStart: "#fff4e6",
+                colorStop: "#ffe9e4",
+                blur: 1,
+                compose: "source-over",
+                bubbleFunc: () => `hsla(${Math.random() * 50}, 100%, 50%, .3)`
+            }
+        ];
+        document.addEventListener("click", function (e) {
+            if (e.target.hasAttribute("data-config-nr")) {
+                document.body.removeChild(document.querySelector("canvas"));
+                bubbly(configs[e.target.getAttribute("data-config-nr")]);
+            }
+        });
+    </script>
+</body>

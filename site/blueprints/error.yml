@@ -1,0 +1,17 @@
+title: Error
+
+pages: false
+hide: true
+
+fields:
+  title:
+    label: Title
+    type:  markdown
+
+  intro:
+    label: Intro
+    type:  markdown
+
+  text:
+    label: Text
+    type:  markdown

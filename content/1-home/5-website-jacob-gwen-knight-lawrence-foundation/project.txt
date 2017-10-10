@@ -1,0 +1,25 @@
+Title: Website | Jacob & Gwen Knight Lawrence Foundation
+
+----
+
+Thumbnail: preview.png
+
+----
+
+Text: A celebration of the cenntenial of the famed African-American, dynamic-cubism artist, Jacob Lawrence, and his wife Gwendolyn Knight.
+
+----
+
+Leadtheme: dark
+
+----
+
+Alignpresentation: p_c_right
+
+----
+
+Contactsection: 0
+
+----
+
+Aligncontact: p_c_right

@@ -1,0 +1,25 @@
+Title: UI/UX | eLearning Faculty & Learner Experiences for "Large US Bank"
+
+----
+
+Thumbnail: preview.png
+
+----
+
+Text: Create dynamic and ongoing learning by leveraging technology tools to fortify talent mindset and leadership culture
+
+----
+
+Leadtheme: dark
+
+----
+
+Alignpresentation: p_c_right
+
+----
+
+Contactsection: 0
+
+----
+
+Aligncontact: p_c_right

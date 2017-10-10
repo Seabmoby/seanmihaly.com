@@ -1,0 +1,61 @@
+title: Project
+
+icon: home
+
+options:   
+  status: true
+
+pages:
+  template:
+    - module.section
+
+files: true
+
+fields:
+  title:
+    label: Title
+    type:  markdown
+    width: 2/3
+    
+  thumbnail:
+    label: Thumbnail
+    type: select
+    options: images
+    help: thumb for project list on home page
+    width: 1/3
+
+  text:
+    label: Lead Section
+    type:  markdown
+    
+  leadtheme:
+    label: Lead color theme
+    type: select
+    default: dark
+    options: 
+      dark: Dark theme
+    width: 1/2
+    
+  alignpresentation:
+    label: Lead section alignment
+    type: select
+    default: p-c-right
+    options: 
+      p_c_right: Content align right
+      p_c_center: Content align centered
+      p_c_justify: Content justified
+    width: 1/2
+    
+  contactsection:
+    label: Show contact Section
+    type:  checkbox
+    width: 1/2
+
+  aligncontact:
+    label: Contact links alignment
+    type: select
+    default: p-c-right
+    options: 
+      p_c_right: Contact links on right
+      p_c_center: Contact links centered
+    width: 1/2

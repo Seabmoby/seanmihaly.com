@@ -1,0 +1,72 @@
+Title: Brief
+
+----
+
+Iconillus: file
+
+----
+
+Textcontent: 
+
+----
+
+Text: 
+
+March, 13rd 2014 - Project completion
+
+*Wondrous* is an immersive interactive installation that will enchant users. Flying kites
+is a century-old tradition that has an international and ageless appeal. The kites will
+evoke childhood memories and bring the user to a happy yet serene place.
+*Wondrous* allows users who step within the installation to control their very
+own digital kite. The serene starry night sky will be projected on the ceiling, giving
+the user the feeling that they are outside. Using input from the Kinect along with
+Processing software, the user will be tracked and represented with a kite on the
+screen that will be projected on the ceiling. Each user will have their own kite and as
+they move around the kite will follow them, much like a user would control a kite in
+the sky. If the user hovers their kite over a star that star will disappear but begin to
+form a constellation. There are a series of constellations in the sky that correspond
+with the twelve zodiac symbols.
+
+*Wondrous* is an interactive installation that will bring users a sense of peace and
+happiness. Kites have an ageless and international appeal that will bring users back
+to a happier time. The whimsical nature of *Wondrous* will allow the users to not only
+interact with the environment, but also with each other.
+
+*Wondrous* is an expandable environment that can cater to multiple users. Based on
+the space that we have been given, we are limited to the amount of users. Ideally six
+users yields the best results, but the system can handle up to 10. Also with only using
+a single Kinect we are limited as well.
+
+*Wondrous* won the award for "Best Interactive Installation" in 2014 in Savannah, GA.
+
+<iframe src="https://player.vimeo.com/video/91663695" width="100%" max-width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</br>
+Sean's role on the *Wonderous* project was that of a project manager and lead designer. Sean was part of a group of designers and programmers tasked with delievering an interactive piece in ten weeks. As a group, the design for the installation was formed, presented, and executed within this time. Along the way, Sean was responsible for managing a group of approximately 10 designers in both visual and auditory fields, along with programmers responsible for writing the Processing (java) code.
+
+----
+
+Textsuite: 
+
+----
+
+Addtextlink: 
+
+----
+
+Textlink: 
+
+----
+
+Addgallery: 
+
+----
+
+Gallerie: 
+
+----
+
+Addvideo: 
+
+----
+
+Gallery-video: 

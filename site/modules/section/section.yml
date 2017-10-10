@@ -1,0 +1,69 @@
+title: Section
+
+pages: false
+
+icon: edit
+
+fields:
+  title:
+    label: Title
+    type:  text
+    width: 1/2
+    
+  iconillus:
+    label: Illustration Icon
+    type:  icon
+    placeholder: enter an icon name (apple, building, camera, etc...)
+    icon: file-picture-o
+    width: 1/2
+    help: all icons can be found here - http://fontawesome.io/icons/
+    
+
+
+  textcontent:
+    label: Text Content
+    type:  headline
+    
+  text:
+    label: Text
+    type:  markdown
+    
+  textsuite:
+    label: Read more
+    type:  markdown
+    help: Read more content will appear with a slide toggle effect.
+    
+  addtextlink:
+    label: External Link
+    type:  headline
+    
+  textlink:
+    label: Link
+    type:  url
+    help: show a button in article for the link (target blank - default).
+
+  addgallery:
+    label: Image Gallery 
+    type:  headline
+    
+  gallerie:
+    label: Select Images
+    type: checkboxes 
+    options: images
+    columns: 3
+    
+  addvideo:
+    label: Video Gallery 
+    type:  headline
+    
+  gallery_video:
+    label: YT Videos links
+    type: structure
+    fields:
+      gallery_video_url:
+        label: Links
+        type: url
+      gallery_video_title:
+        label: Title
+        type: text
+        

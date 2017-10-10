@@ -1,0 +1,25 @@
+Title: UI/UX | Anthem eLearning Prototype
+
+----
+
+Thumbnail: xd-prototype.png
+
+----
+
+Text: Apply Anthem's branding to OnPoint's existing eLearning UI/UX for both mobile and web applications.
+
+----
+
+Leadtheme: dark
+
+----
+
+Alignpresentation: p_c_right
+
+----
+
+Contactsection: 0
+
+----
+
+Aligncontact: p_c_right

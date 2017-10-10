@@ -1,0 +1,57 @@
+Title: Sean Mihaly | Documentation & Portfolio
+
+----
+
+Author: Sean Mihaly
+
+----
+
+Description: Visual and Experience Designer
+
+----
+
+Copyright: ©  (date: Year) Sean Mihaly
+
+----
+
+Email: sean.s.mihaly@gmail.com
+
+----
+
+Tel: 
+
+----
+
+Logo: 
+
+----
+
+Useinvert: 1
+
+----
+
+Usefadeinup: 1
+
+----
+
+Animatedborder: 1
+
+----
+
+Svgstyle: 
+
+----
+
+Socials-links: 
+
+----
+
+Socialimages: social2.jpg
+
+----
+
+Website: https://seanmihaly.com
+
+----
+
+Twitter: 

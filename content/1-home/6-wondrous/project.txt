@@ -1,0 +1,29 @@
+Title: Interactive Installation | Wondrous
+
+----
+
+Thumbnail: wondrous.jpg
+
+----
+
+Text: 
+
+Wondrous is an immersive interactive installation that will enchant users. Flying kites
+is a century-old tradition that has an international and ageless appeal. The kites will
+evoke childhood memories and bring the user to a happy yet serene place.
+
+----
+
+Leadtheme: dark
+
+----
+
+Alignpresentation: p_c_right
+
+----
+
+Contactsection: 0
+
+----
+
+Aligncontact: p_c_right

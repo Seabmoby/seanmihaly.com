@@ -1,0 +1,44 @@
+Title: Documentation
+
+----
+
+Iconillus: book
+
+----
+
+Textcontent: 
+
+----
+
+Text: 
+
+(file: wondrous_documentation.pdf text: Direct link)
+<embed src="http://seanmihaly.com/content/1-home/5-wondrous/2-documentation/wondrous_documentation.pdf" width="100%" max-width="560" height="1000px" />
+
+----
+
+Textsuite: 
+
+----
+
+Addtextlink: 
+
+----
+
+Textlink: 
+
+----
+
+Addgallery: 
+
+----
+
+Gallerie: 
+
+----
+
+Addvideo: 
+
+----
+
+Gallery-video: 

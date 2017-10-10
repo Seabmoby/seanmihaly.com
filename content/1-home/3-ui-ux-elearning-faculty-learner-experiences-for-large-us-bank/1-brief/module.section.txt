@@ -1,0 +1,46 @@
+Title: Brief
+
+----
+
+Iconillus: file
+
+----
+
+Textcontent: 
+
+----
+
+Text: 
+
+Ongoing since December, 13th 2016 - Took over as UX designer
+
+A large US bank was looking to completely digitize their in-person leadership training program. From taking attendance to managing collaborative whiteboard sessions, this bank was looking to push the system to the absolute limit and beyond. 
+For this project, Sean acted as point UX designer and consultant. He participated in design meetings with the client and created many iterative mock ups in order to better demonstrate what the system was capable of.
+
+----
+
+Textsuite: 
+
+----
+
+Addtextlink: 
+
+----
+
+Textlink: 
+
+----
+
+Addgallery: 
+
+----
+
+Gallerie: 
+
+----
+
+Addvideo: 
+
+----
+
+Gallery-video: 

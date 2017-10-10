@@ -1,0 +1,33 @@
+Title: Visual and Experience Designer <img src="https://seanmihaly.com/content/1-home/parrot.gif" style="height: 42px; line-height: 52px; vertical-align: top; ">
+
+----
+
+Intro: 
+
+----
+
+Text: I am a strategic thinker with a goal to bring better interactive experiences to websites, apps, and games. By creating user experiences that are designed with intelligent standards of usability, I bring products to market that center around best practices in user-focused designs. I am proficient in the Adobe Creative Cloud, HTML/CSS, and Atlassian Jira, and I use those tools along with many others, along with my skills in project management, to deliver the most effective UI/UX solutions for teams and businesses.
+
+----
+
+Aligncontact: 
+
+----
+
+Alignpresentation: 
+
+----
+
+Leadtheme: 
+
+----
+
+Contactsection: 0
+
+----
+
+Show-project: 1
+
+----
+
+Show-projects: 1

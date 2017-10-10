@@ -1,0 +1,41 @@
+Title: Documentation
+
+----
+
+Iconillus: book
+
+----
+
+Textcontent: 
+
+----
+
+Text: (image: jglf.png)
+
+----
+
+Textsuite: 
+
+----
+
+Addtextlink: 
+
+----
+
+Textlink: 
+
+----
+
+Addgallery: 
+
+----
+
+Gallerie: 
+
+----
+
+Addvideo: 
+
+----
+
+Gallery-video: 

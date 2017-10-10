@@ -1,0 +1,58 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  -webkit-overflow-scrolling: touch;
+}
+
+body{
+  padding:0;
+  margin:0
+}
+
+img,
+svg,
+video,
+audio {
+  max-width: 100%;
+}
+
+img,
+video {
+  height: auto; 
+}
+
+svg {
+  max-height: 100%;
+}
+
+iframe {
+  border: none;
+}
+
+::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+a img,
+a svg,
+th img,
+td img {
+    vertical-align: top;
+}
+
+img {
+    vertical-align: middle;
+    -ms-interpolation-mode: bicubic;
+}
